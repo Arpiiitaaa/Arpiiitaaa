@@ -1,11 +1,11 @@
-Microsoft MVP
-Software Engineer @Yubi
-5X Microsoft Technical Certifications
-30X Google Cloud Badges
-Harvard WECode-Scholar'22
-Mentor @ Imagine Cup'21
-Gold MLSA
-VIT'23
+Microsoft MVP ✨
+Software Engineer @Yubi ✨
+5X Microsoft Technical Certifications ✨
+30X Google Cloud Badges ✨
+Harvard WECode-Scholar'22 ✨
+Mentor @ Imagine Cup'21 ✨
+Gold MLSA ✨
+VIT'23 ✨
 
 
 
