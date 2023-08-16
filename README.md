@@ -1,6 +1,11 @@
-👋 Hi, I’m Arpita Das!
-
-👀 I’m interested in technology, especially cloud tech and communities!
+Microsoft MVP
+Software Engineer @Yubi
+5X Microsoft Technical Certifications
+30X Google Cloud Badges
+Harvard WECode-Scholar'22
+Mentor @ Imagine Cup'21
+Gold MLSA
+VIT'23
 
 
 
