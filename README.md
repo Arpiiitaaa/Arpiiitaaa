@@ -1,5 +1,4 @@
 Microsoft MVP ✨
-Software Engineer @Yubi ✨
 5X Microsoft Technical Certifications ✨
 30X Google Cloud Badges ✨
 Harvard WECode-Scholar'22 ✨
